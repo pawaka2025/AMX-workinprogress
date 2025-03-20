@@ -199,5 +199,5 @@ int main(){
 
 /*
   Run this file like this :
-  gcc -O2 -march=native -fno-strict-aliasing *.c -o test && ./test
+  gcc -O2 -march=native -fno-strict-aliasing main.c -o test && ./test
 */
