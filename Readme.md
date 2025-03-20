@@ -27,7 +27,7 @@ This has significant implications due to the massive performance improvements co
 This repository serves as:
 - A refresher for myself to continue AMX exploration at a later date.
 - A starting point for others interested in learning about AMX and its intricacies.
-- A primer for me to work on hopefully devloping custom-made AMX instructions via C, Assembly or even lower-level code ie machine.
+- A primer for me to work on hopefully developing custom-made AMX instructions via C, Assembly or even lower-level code ie machine.
 
 The code here is adapted from Intel’s AMX sample code:
 [https://github.com/intel/AMX-TMUL-Code-Samples/blob/main/src/test-amxtile.c](https://github.com/intel/AMX-TMUL-Code-Samples/blob/main/src/test-amxtile.c)
