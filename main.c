@@ -7,7 +7,7 @@
 #include <stdbool.h>
 
 /* 
-  Rows and cols must be in 1:4 ratio, or we'll get 'illegal instruction' error.
+  Rows and columns must be in 1:4 ratio, or we'll get 'illegal instruction' error.
   Stride marks the end of a column and a start of a new row. 
   You can set stride to be x2 cols if you want to skip alternate rows, for example.a64l
   The maximum number of rows and columns is 16 and 64 respectively.
